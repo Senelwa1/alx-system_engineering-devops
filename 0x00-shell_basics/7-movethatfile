@@ -1,0 +1,2 @@
+#!/bin/bash
+mr /tmp/betty /tmp/my-first_directory
